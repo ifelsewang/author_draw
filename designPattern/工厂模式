@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T07:26:09.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="DWriPxMzKmpsJKHfI8p5" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T07:37:08.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="pkdOyfiyhIWMp8PoCcr-" version="14.8.5" type="github">
   <diagram id="X10pwhFYt9FVqZNKVymD" name="第 1 页">
-    <mxGraphModel dx="1282" dy="0" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1466" dy="83" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-47" value="XiaomiPhoneFactory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=16;fontColor=#B3B3B3;startSize=25;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1642" width="106" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="IZKKuMS6hxAI0Ows_E_4-114" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;sketch=0;jiggle=3;fontSize=69;startSize=25;verticalAlign=middle;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;textOpacity=20;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="779.49" y="1122.34" width="342" height="204.85" as="geometry" />
         </mxCell>
@@ -504,7 +501,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="124" y="1929" width="322" height="60" as="geometry" />
+          <mxGeometry x="124" y="1929" width="383" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-65" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;sketch=0;jiggle=3;fontSize=69;startSize=25;verticalAlign=middle;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;opacity=20;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-62">
+          <mxGeometry x="64" y="-211" width="276" height="274" as="geometry" />
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-56" value="提供小米手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#996185;fillColor=#e6d0de;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-62">
           <mxGeometry x="98" y="18" width="77" height="24" as="geometry" />
@@ -531,7 +531,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="124" y="1826" width="322" height="60" as="geometry" />
+          <mxGeometry x="124" y="1826" width="436" height="166" as="geometry" />
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-50" value="提供小米手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#b85450;fillColor=#f8cecc;verticalAlign=top;gradientColor=#ea6b66;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-63">
           <mxGeometry x="98" y="18" width="77" height="24" as="geometry" />
@@ -558,7 +558,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="124" y="1725" width="322" height="60" as="geometry" />
+          <mxGeometry x="124" y="1725" width="403" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-6" value="提供华为手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-64">
           <mxGeometry x="98" y="18" width="77" height="24" as="geometry" />
@@ -583,6 +583,9 @@
             <mxPoint x="176.5" y="29.99000000000001" as="sourcePoint" />
             <mxPoint x="239.5" y="29.75799999999981" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-66" value="京 东 商 城" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=23;fontColor=#000000;startSize=25;opacity=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="254.12" y="1691" width="142.75" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
