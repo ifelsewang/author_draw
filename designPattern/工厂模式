@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T10:33:23.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="jnLTB9xWT47qGu6j3FjZ" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T11:34:26.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="nRELrzMFZkQLtwjtwjVM" version="14.8.5" type="github">
   <diagram id="X10pwhFYt9FVqZNKVymD" name="第 1 页">
     <mxGraphModel dx="1282" dy="0" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-178" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;sketch=0;jiggle=3;fontSize=69;startSize=25;verticalAlign=middle;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2393" width="223" height="174" as="geometry" />
+        </mxCell>
         <mxCell id="IZKKuMS6hxAI0Ows_E_4-114" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;sketch=0;jiggle=3;fontSize=69;startSize=25;verticalAlign=middle;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;textOpacity=20;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="779.49" y="1122.34" width="342" height="204.85" as="geometry" />
         </mxCell>
@@ -506,7 +509,7 @@
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-65" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;sketch=0;jiggle=3;fontSize=69;startSize=25;verticalAlign=middle;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;opacity=20;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-62">
           <mxGeometry x="64" y="-211" width="276" height="274" as="geometry" />
         </mxCell>
-        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-56" value="提供小米手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#996185;fillColor=#e6d0de;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-62">
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-56" value="提供苹果手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#996185;fillColor=#e6d0de;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-62">
           <mxGeometry x="98" y="18" width="77" height="24" as="geometry" />
         </mxCell>
         <mxCell id="LgwQNVvcAt2ZM6v3BWtS-57" value="phone.play()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#996185;fillColor=#e6d0de;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="LgwQNVvcAt2ZM6v3BWtS-62">
@@ -944,6 +947,66 @@
               <mxPoint x="865" y="1860.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-161" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;sketch=0;jiggle=3;fontSize=69;startSize=25;verticalAlign=middle;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="182" y="2071" width="276" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-162" value="提供苹果手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#996185;fillColor=#e6d0de;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="216" y="2300" width="77" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-163" value="phone.play()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#996185;fillColor=#e6d0de;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="356" y="2300" width="84" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-164" value="苹果专卖店" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=16;fontColor=#B3B3B3;startSize=25;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="2282" width="106" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-165" value="" style="endArrow=classic;html=1;startSize=25;gradientColor=#b3b3b3;fillColor=#f5f5f5;rounded=0;strokeColor=#B3B3B3;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294.4999999999998" y="2311.9900000000002" as="sourcePoint" />
+            <mxPoint x="357.5000000000002" y="2311.758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-166" value="提供小米手机" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#b85450;fillColor=#f8cecc;verticalAlign=top;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="216" y="2197" width="77" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-167" value="phone.play()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#b85450;fillColor=#f8cecc;verticalAlign=top;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="356" y="2197" width="84" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-168" value="小米专卖店" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=16;fontColor=#B3B3B3;startSize=25;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="2179" width="106" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-169" value="" style="endArrow=classic;html=1;startSize=25;gradientColor=#b3b3b3;fillColor=#f5f5f5;rounded=0;strokeColor=#B3B3B3;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294.4999999999998" y="2208.99" as="sourcePoint" />
+            <mxPoint x="357.5000000000002" y="2208.758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-170" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="196" y="2096" width="177" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-171" value="phone.play()" style="rounded=1;whiteSpace=wrap;html=1;comic=1;jiggle=1;startSize=25;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="356" y="2096" width="84" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-172" value="华为专卖店" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=16;fontColor=#B3B3B3;startSize=25;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="2078" width="106" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-173" value="" style="endArrow=classic;html=1;startSize=25;gradientColor=#b3b3b3;fillColor=#f5f5f5;rounded=0;strokeColor=#B3B3B3;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294.5" y="2107.99" as="sourcePoint" />
+            <mxPoint x="357.5" y="2107.758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-174" value="京 东 商 城" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=23;fontColor=#000000;startSize=25;opacity=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="248.12" y="2044" width="142.75" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-175" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;订购华为手机方法&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Phone phone = 华为手机；&lt;br&gt;phone.play();&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;shadow=1;fontSize=12;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2407" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-177" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;订购小米手机方法&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Phone phone = 小米手机；&lt;br&gt;phone.play();&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;shadow=1;fontSize=12;strokeColor=#b85450;gradientColor=#ea6b66;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2488" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LgwQNVvcAt2ZM6v3BWtS-179" value="京东订购类" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;sketch=1;jiggle=3;fontSize=23;fontColor=#000000;startSize=25;opacity=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="168.12" y="2366" width="142.75" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
