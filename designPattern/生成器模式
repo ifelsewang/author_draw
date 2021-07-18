@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T08:09:12.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ID6KHjoLkWOI6u0g3gyv" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T08:09:34.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Ip_AaqNorZqBhjCL5YEz" version="14.9.0" type="github">
   <diagram id="oYHgGuXUFxx1HVdqeZiy" name="第 1 页">
     <mxGraphModel dx="896" dy="263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NhWw8fLZSpiO_rL_lrBp-1" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-68" y="198" width="63" height="25" as="geometry" />
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-131" y="169" width="315" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="NhWw8fLZSpiO_rL_lrBp-3" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-131" y="198" width="63" height="25" as="geometry" />
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-1" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
+          <mxGeometry x="63" y="29" width="63" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NhWw8fLZSpiO_rL_lrBp-4" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="198" width="63" height="25" as="geometry" />
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-3" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
+          <mxGeometry y="29" width="63" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NhWw8fLZSpiO_rL_lrBp-5" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="58" y="198" width="63" height="25" as="geometry" />
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-4" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
+          <mxGeometry x="126" y="29" width="63" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NhWw8fLZSpiO_rL_lrBp-6" value="倒车影像" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="121" y="198" width="63" height="25" as="geometry" />
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-5" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
+          <mxGeometry x="189" y="29" width="63" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NhWw8fLZSpiO_rL_lrBp-7" value="汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="6.5" y="169" width="40" height="20" as="geometry" />
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-6" value="倒车影像" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
+          <mxGeometry x="252" y="29" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-7" value="汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
+          <mxGeometry x="137.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
