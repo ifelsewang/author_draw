@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T08:09:34.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Ip_AaqNorZqBhjCL5YEz" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T08:52:53.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="C56uM6KInCdXn-5E6izC" version="14.9.0" type="github">
   <diagram id="oYHgGuXUFxx1HVdqeZiy" name="第 1 页">
-    <mxGraphModel dx="896" dy="263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,210 @@
         </mxCell>
         <mxCell id="NhWw8fLZSpiO_rL_lrBp-7" value="汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-9">
           <mxGeometry x="137.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-130" y="252" width="315" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-11" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="63" y="24" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-12" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry y="24" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-13" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="126" y="24" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-16" value="低配汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="63.5" width="62.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-25" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="63" y="97" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-26" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry y="97" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-27" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="126" y="97" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-28" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="189" y="97" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-30" value="中配汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="96" y="74" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-18" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="63" y="171" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-19" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry y="171" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-20" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="126" y="171" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-21" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="189" y="171" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-22" value="倒车影像" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="252" y="171" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-23" value="高配汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-32">
+          <mxGeometry x="130.75" y="151" width="55.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-165" y="548" width="317" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-35" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="65" y="24" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-36" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="2" y="24" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-37" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="128" y="24" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-38" value="低配汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="65.5" width="62.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-50" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="65" y="53" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-51" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="2" y="53" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-52" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="128" y="53" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-62" value="" style="group" vertex="1" connectable="0" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry x="2" y="196" width="315" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-44" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="63" y="20" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-45" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry y="20" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-46" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="126" y="20" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-47" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="189" y="20" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-48" value="倒车影像" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="252" y="20" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-49" value="高配汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="130.75" width="55.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-57" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="63" y="49" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-58" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry y="49" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-59" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="126" y="49" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-60" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="189" y="49" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-61" value="倒车影像" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-62">
+          <mxGeometry x="252" y="49" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-63" value="" style="group" vertex="1" connectable="0" parent="NhWw8fLZSpiO_rL_lrBp-64">
+          <mxGeometry y="98" width="252" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-39" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="63" y="23" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-40" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry y="23" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-41" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="126" y="23" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-42" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="189" y="23" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-43" value="中配汽车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;jiggle=2;fontStyle=1" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="96" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-53" value="轮子" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="63" y="52" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-54" value="车体" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry y="52" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-55" value="发动机" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="126" y="52" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-56" value="天窗" style="rounded=0;whiteSpace=wrap;html=1;comic=1;jiggle=2;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-63">
+          <mxGeometry x="189" y="52" width="63" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-165" y="853" width="375" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-65" value="Car" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;comic=1;jiggle=2;cloneable=1;pointerEvents=1;connectable=1;allowArrows=1;dropTarget=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry width="160" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-66" value="body：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-67" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-68" value="wheels： String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-69" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="86" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-70" value="engine：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="94" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-78" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="120" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-79" value="skylight：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="128" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-81" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="154" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-82" value="image：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="162" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-83" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="188" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-84" value="color：String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="196" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-93" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="222" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-94" value="... ...()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-65">
+          <mxGeometry y="230" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-86" value="// 车体" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="164" y="27" width="53" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-87" value="// 轮子" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="160" y="61" width="53" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-88" value="// 发动机" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="160" y="95" width="53" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-89" value="// 天窗" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="164" y="129" width="53" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-90" value="// 倒车影像" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="164" y="163" width="71" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-91" value="// 颜色" style="text;whiteSpace=wrap;html=1;fontColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="164" y="194" width="53" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWw8fLZSpiO_rL_lrBp-95" value="// 此处省略所有的getter和setter方法" style="text;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="NhWw8fLZSpiO_rL_lrBp-96">
+          <mxGeometry x="164" y="225" width="198" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
