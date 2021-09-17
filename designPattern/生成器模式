@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T09:30:04.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="nJy-ql3qF3HpAEHcrtFB" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T09:41:03.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="BAzPxpOXhAw67dyft4zM" version="15.2.5" type="github">
   <diagram id="oYHgGuXUFxx1HVdqeZiy" name="第 1 页">
-    <mxGraphModel dx="1531" dy="-433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="1682" dy="-400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,12 +210,12 @@
         </mxCell>
         <mxCell id="Iiqr975vdkVRVafw9fwc-100" value="" style="endArrow=none;html=1;fontSize=12;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-249" y="3051" as="sourcePoint" />
-            <mxPoint x="-236" y="3051" as="targetPoint" />
+            <mxPoint x="-249" y="3050" as="sourcePoint" />
+            <mxPoint x="-236" y="3050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iiqr975vdkVRVafw9fwc-101" value="返回具体对象" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;opacity=35;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-236.5" y="3039" width="118" height="20" as="geometry" />
+          <mxGeometry x="-236.5" y="3038" width="118" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iiqr975vdkVRVafw9fwc-102" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;客户端(Client)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Director director = new Director();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;director.getObject();&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;fontSize=13;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-631" y="2723" width="208" height="73" as="geometry" />
@@ -252,6 +252,61 @@
         <mxCell id="Iiqr975vdkVRVafw9fwc-111" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#FF0000;" vertex="1" connectable="0" parent="Iiqr975vdkVRVafw9fwc-110">
           <mxGeometry x="-0.1761" relative="1" as="geometry">
             <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-152" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;构造器接口(IUserBuilder)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;String buildNicaname();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;int buildPayCnt();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;int buildPayAmt();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;List&amp;lt;String&amp;gt; buildProductType();&lt;br&gt;List&amp;lt;String&amp;gt; buildAmtInterval();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;User getUser();&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;fontSize=13;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-312" y="3126" width="207" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-153" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Iiqr975vdkVRVafw9fwc-152">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-159" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;导演类(Director)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;getJzyxUser(){};&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;getCjxfUser(){};&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;fontSize=13;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-612" y="3317.5" width="207" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-160" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Iiqr975vdkVRVafw9fwc-159">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-166" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;客户端(Client)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;// 精准营销获取User对象&lt;br&gt;Director director1 = new Director();&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;director1.getJzyxUser();&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;// 刺激消费获取User对象&lt;br&gt;Director director2 = new Director();&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;director2.getCjxfUser();&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;fontSize=13;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-612" y="3126" width="208" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-167" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Iiqr975vdkVRVafw9fwc-166">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-168" value="调用" style="endArrow=classic;html=1;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="Iiqr975vdkVRVafw9fwc-166" target="Iiqr975vdkVRVafw9fwc-159">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-528" y="3235" as="sourcePoint" />
+            <mxPoint x="-509" y="3240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-169" value="调用" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontSize=12;fontColor=#000000;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;" edge="1" parent="1" target="Iiqr975vdkVRVafw9fwc-152" source="Iiqr975vdkVRVafw9fwc-159">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-402" y="3297.5" as="sourcePoint" />
+            <mxPoint x="-352" y="3247.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-170" value="" style="endArrow=block;html=1;fontSize=12;fontColor=#000000;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.11;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-208.82" y="3304.28" as="sourcePoint" />
+            <mxPoint x="-208.83999999999997" y="3259.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-171" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#FF0000;" vertex="1" connectable="0" parent="Iiqr975vdkVRVafw9fwc-170">
+          <mxGeometry x="-0.1761" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-172" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;构造器接口(UserBuilder)&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;String buildNicaname(){};&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;int buildPayCnt(){};&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;int buildPayAmt(){};&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;List&amp;lt;String&amp;gt; buildProductType(){};&lt;br&gt;List&amp;lt;String&amp;gt; buildAmtInterval(){};&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;User getUser(){};&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;fontSize=13;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-312" y="3304" width="207" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="Iiqr975vdkVRVafw9fwc-173" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Iiqr975vdkVRVafw9fwc-172">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
